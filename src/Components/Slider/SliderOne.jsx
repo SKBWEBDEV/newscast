@@ -40,7 +40,7 @@ const SliderOne = () => {
     <div className="px-2">
       <img className="h-[350px] w-full object-cover rounded-md" src={Watch} alt="" />
     </div>
-    
+
   </Slider>
 </div>
 

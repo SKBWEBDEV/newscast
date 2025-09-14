@@ -49,7 +49,7 @@ const Lifestyle = () => {
         
         <div className="text-[#393939]/60">
           <p className="mt-[25px] ">Craig Bator - 9 Sep 2025</p>
-          <h2 className="text-[#393939] font-bold text-[28px] w-[500px]  ">‘Institutional delivery vital for reducing maternal and neonatal deaths’</h2>
+          <h2 className="text-[#393939] font-bold text-[23px] w-[500px]  ">‘Institutional delivery vital for reducing maternal and neonatal deaths’</h2>
           <p className="w-[480px] ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus lobortis augue condimentum maecenas. Metus at in fames vitae posuere ut vel vulputate.... </p>
         </div>
 
@@ -84,7 +84,7 @@ const Lifestyle = () => {
         
         <div className="text-[#393939]/60">
           <p className="mt-[25px] text-[#393939]/60">Craig Bator - 9 Sep 2025</p>
-          <h2 className="text-[#393939] font-bold text-[28px] w-[500px]">Being self-controlled child may lead to healthier middle-age</h2>
+          <h2 className="text-[#393939] font-bold text-[23px] w-[500px]">Being self-controlled child may lead to healthier middle-age</h2>
           <p className="w-[480px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus lobortis augue condimentum maecenas. Metus at in fames vitae posuere ut vel vulputate.... </p>
         </div>
 
