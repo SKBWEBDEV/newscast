@@ -1,5 +1,5 @@
 import Container from "../Layouts/Container"
-import South from "../../assets/South.png"
+import South from "../../assets/South.png";
 import Ball from "../../assets/Ball.png"
 import Ground from "../../assets/Ground.png"
 import Player from "../../assets/Player.png"
