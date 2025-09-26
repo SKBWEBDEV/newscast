@@ -2,7 +2,7 @@ import Container from "../Layouts/Container"
 import Newscast from "../../assets/Newscast.png"
 import { FaFacebookF } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
-import { FaTwitter } from "react-icons/fa6";
+import { FaTwitter } from "react-icons/fa";
 import { IoLogoYoutube } from "react-icons/io5";
 import Done from "../../assets/Done.png"
 import Grass from "../../assets/Grass.png"

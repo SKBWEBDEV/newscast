@@ -3,14 +3,14 @@ import Okey from "../../assets/news.png";
 
 const News = () => {
   return (
-    <div className="py-[40px]  px-[40px] font-poppins">
+    <div className="py-[40px]  md:px-[40px] font-poppins">
       <Container>
-        <div className="flex justify-between items-center">
+        <div className="md:flex md:justify-between md:items-center">
           <div>
             <img src={Okey} alt="" />
           </div>
 
-          <div className="flex justify-around gap-3.5 items-center text-white bg-black py-[16px] w-[771px]">
+          <div className="hidden md:flex justify-around gap-3.5 items-center text-white bg-black py-[16px] w-[771px]">
             <div>
               <p className="w-[280px]">Best Selling BLOG and MAGAZINE Theme of All Time</p>
               <p className="text-[#F65050]">Experience the change!</p>
